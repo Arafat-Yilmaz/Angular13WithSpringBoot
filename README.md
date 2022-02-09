@@ -14,4 +14,5 @@ ScreenShots:
 ![Ekran Resmi 2022-02-09 21 18 24](https://user-images.githubusercontent.com/26061773/153264968-9315720a-05b1-4ce6-aa4f-9d1d0e62ebd2.png)
 
 
-![Ekran Resmi 2022-02-09 21 18 41](https://user-images.githubusercontent.com/26061773/153264997-182d9e11-0728-4c67-a47f-db9d6e67f8c1.png)
+
+![Ekran Resmi 2022-02-09 21 23 02](https://user-images.githubusercontent.com/26061773/153265354-f35c9389-eb37-4e22-85ff-d2dca65eb213.png)
