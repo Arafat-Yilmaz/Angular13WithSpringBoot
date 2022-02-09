@@ -1,0 +1,9 @@
+com/warehousebe/warehousebe/repository/WarehouseRepository.class
+com/warehousebe/warehousebe/service/WarehouseService.class
+com/warehousebe/warehousebe/model/Cars.class
+com/warehousebe/warehousebe/model/Warehouse.class
+com/warehousebe/warehousebe/model/Vehicle.class
+com/warehousebe/warehousebe/WarehousebeApplication.class
+com/warehousebe/warehousebe/model/Location.class
+com/warehousebe/warehousebe/controller/WarehouseController.class
+com/warehousebe/warehousebe/service/WarehouseServiceImpl.class
